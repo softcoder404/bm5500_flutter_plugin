@@ -1,6 +1,6 @@
 # bm5500_flutter_plugin
 
-A new Flutter project.
+bm5500_flutter_plugin is a flutter plugin that enables communication between the flutter mobile application and the aratek biometric module java sdk. The plugin is designed to provide an easy-to-use interface for developers to access the biometric module's functionalities directly from their flutter mobile applications.
 
 ## Getting Started
 
